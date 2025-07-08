@@ -1,4 +1,4 @@
-🚀 Hi, I'm [Your Name] - Full Stack Developer 💻
+🚀 Hi, I'm Timea - Full Stack Developer 💻
 
 Welcome to my coding journey! I'm passionate about building modern, responsive, and user-friendly web applications using cutting-edge technologies.
 🌟 Tech Stack
