@@ -54,7 +54,9 @@
 
 🔧 **Technologies: React · JSX · CSS**
 
-📝 Description:** Developed the products page for a point-of-sale system with:  
+📝 Description:** Developed the products page for a point-of-sale system with
+
+ 🚀 Features:
 - Product catalog display
 - Inventory management interface
 - Bilingual support (English/Hebrew) with RTL layout switching
