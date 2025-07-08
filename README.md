@@ -7,22 +7,34 @@
 
 ## 💻 My Tech Arsenal
 
-### Frontend Mastery
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="https://img.shields.io/badge/HTML5-Expert-E34F26?style=plastic&logo=html5&logoColor=white" alt="HTML5 Expert" />
-  <img src="https://img.shields.io/badge/CSS3-Advanced-1572B6?style=plastic&logo=css3&logoColor=white" alt="CSS3 Advanced" />
-  <img src="https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript Expert" />
-  <img src="https://img.shields.io/badge/React-Pro-20232A?style=plastic&logo=react&logoColor=61DAFB" alt="React Pro" />
-  <img src="https://img.shields.io/badge/Next.js-Advanced-000000?style=plastic&logo=nextdotjs&logoColor=white" alt="Next.js Advanced" />
-  <img src="https://img.shields.io/badge/TypeScript-Intermediate-007ACC?style=plastic&logo=typescript&logoColor=white" alt="TypeScript Intermediate" />
-  <img src="https://img.shields.io/badge/Tailwind-Expert-38B2AC?style=plastic&logo=tailwind-css&logoColor=white" alt="Tailwind Expert" />
+## 💻 Tech Stack
+
+### Frontend Development
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-bottom: 20px;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=plastic&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </div>
 
-### Backend & Tools
+### Backend & Databases
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-bottom: 20px;">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=plastic&logo=supabase&logoColor=white" alt="Supabase" />
+</div>
+
+### Development Tools
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white" alt="Node.js" title="Node.js" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" alt="Git" title="Git" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=plastic&logo=visual-studio-code&logoColor=white" alt="VS Code" title="VS Code" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white" alt="Slack" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=jira&logoColor=white" alt="Jira" />
 </div>
  
  **🏆 Featured Projects**
