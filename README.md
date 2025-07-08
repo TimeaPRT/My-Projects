@@ -1,4 +1,4 @@
-🚀 **Hi, I'm Timea - Full Stack Developer** 💻
+### 🚀 **Hi, I'm Timea - Full Stack Developer** 💻
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=FF6B8B&center=true&vCenter=true&width=680&lines=Full+Stack+Web+Alchemist;React+%E2%9E%A1+Next.js+%E2%9E%A1+TypeScript+Specialist;Node.js+%E2%9E%A1+MongoDB+%E2%9E%A1+Supabase;Tailwind+CSS+%E2%9E%A1+Responsive+Design;Pixel-Perfect+UI%2FUX+Creator" alt="Typing introduction" />
