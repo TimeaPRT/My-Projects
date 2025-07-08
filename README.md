@@ -40,6 +40,7 @@
  **🏆 Featured Projects**
 
  **1. Task Manager App ✅**
+ 
 🔧 **Technologies: Next.js · TypeScript · Tailwind CSS** 
 
 📝 Description: A productivity application for managing daily tasks with intuitive UI and smooth interactions.  
@@ -50,6 +51,7 @@
 - Clean, modern interface with Tailwind CSS
 
  **2. POS System (Client Project) 🛒**
+ 
 👨‍💻 **Client:Israeli Retail Business**  
 
 🔧 **Technologies: React · JSX · CSS**
