@@ -1,7 +1,18 @@
 🚀 Hi, I'm Timea - Full Stack Developer 💻
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=FF6B8B&center=true&vCenter=true&width=680&lines=✨+Full+Stack+Web+Magician+✨;⚛️+React+%7C+Next.js+%7C+TypeScript+Wizard+🧙;🛠️+Node.js+%7C+MongoDB+%7C+Supabase+Architect+🏗️;🎨+Tailwind+CSS+%7C+UI%2FUX+Artist+🖌️;🚀+Clean+Code+Evangelist+📜" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=FF6B8B&center=true&vCenter=true&width=680&lines=Full+Stack+Web+Alchemist;React+%E2%9E%A1+Next.js+%E2%9E%A1+TypeScript+Specialist;Node.js+%E2%9E%A1+MongoDB+%E2%9E%A1+Supabase;Tailwind+CSS+%E2%9E%A1+Responsive+Design;Pixel-Perfect+UI%2FUX+Creator" alt="Typing introduction" />
+</div>
+
+<style>
+  img[alt="Typing introduction"] {
+    filter: drop-shadow(0 0 8px #FF6B8B) drop-shadow(0 0 16px #FF1493);
+    animation: pulse 2s infinite alternate;
+  }
+  @keyframes pulse {
+    from { opacity: 0.95; }
+    to { opacity: 1; }
+  }
 </style>
 
 
