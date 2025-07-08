@@ -45,7 +45,7 @@ Welcome to my coding journey! I'm passionate about building modern, responsive, 
 
  ## 📫 Let's Connect!
 
-💌 **Email:**timii_sixx@yahoo.com** - ** prelltimii@yahoo.com**
-💼 **LinkedIn:**https://www.linkedin.com/in/renata-timea-prell-163584321/**
+💌 **Email:**timii_sixx@yahoo.com** - **prelltimii@yahoo.com**
+💼 **LinkedIn:** **https://www.linkedin.com/in/renata-timea-prell-163584321/**
 
-🌟 Open to collaborations and exciting opportunities!
+🌟 **Open to collaborations and exciting opportunities!**
