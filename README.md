@@ -1,13 +1,11 @@
 🚀 Hi, I'm Timea - Full Stack Developer 💻
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=600&lines=Modern+Web+Developer;React+%7C+Next.js+Specialist;Clean+Code+Advocate;UI%2FUX+Enthusiast" alt="Typing introduction" />
-</div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=FF6B8B&center=true&vCenter=true&width=680&lines=✨+Full+Stack+Web+Magician+✨;⚛️+React+%7C+Next.js+%7C+TypeScript+Wizard+🧙;🛠️+Node.js+%7C+MongoDB+%7C+Supabase+Architect+🏗️;🎨+Tailwind+CSS+%7C+UI%2FUX+Artist+🖌️;🚀+Clean+Code+Evangelist+📜" alt="Typing introduction" />
+</style>
 
 
 ## 💻 My Tech Arsenal
-
-## 💻 Tech Stack
 
 ### Frontend Development
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-bottom: 20px;">
@@ -52,7 +50,7 @@
  **2. POS System (Client Project) 🛒**
 👨‍💻 Client:** Israeli Retail Business  
 
-🔧 **Technologies: React · TypeScript · Tailwind CSS**
+🔧 **Technologies: React · JSX · CSS**
 
 📝 Description:** Developed the products page for a point-of-sale system with:  
 - Product catalog display
