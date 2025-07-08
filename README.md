@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=600&lines=Modern+Web+Developer;React+%7C+Next.js+Specialist;Clean+Code+Advocate;UI%2FUX+Enthusiast" alt="Typing introduction" />
 </div>
 
-💻 My Tech Arsenal
+
 ## 💻 My Tech Arsenal
 
 ### Frontend Mastery
