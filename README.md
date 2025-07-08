@@ -24,7 +24,9 @@ Welcome to my coding journey! I'm passionate about building modern, responsive, 
 
  **1. Task Manager App ✅**
 🔧 **Technologies: Next.js · TypeScript · Tailwind CSS** 
+
 📝 Description: A productivity application for managing daily tasks with intuitive UI and smooth interactions.  
+
 🚀 Features:
 - Task creation, completion tracking, and organization
 - Responsive design for all devices
@@ -32,7 +34,9 @@ Welcome to my coding journey! I'm passionate about building modern, responsive, 
 
  **2. POS System (Client Project) 🛒**
 👨‍💻 Client:** Israeli Retail Business  
+
 🔧 **Technologies: React · TypeScript · Tailwind CSS**
+
 📝 Description:** Developed the products page for a point-of-sale system with:  
 - Product catalog display
 - Inventory management interface
