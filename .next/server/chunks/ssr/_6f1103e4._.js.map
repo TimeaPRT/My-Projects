@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///D:/G-project/task-manager/src/app/layout.tsx"],"sourcesContent":["import type { Metadata } from \"next\";\nimport { GeistSans, GeistMono } from \"geist/font\";\nimport \"./globals.css\";\n\nexport const metadata: Metadata = {\n  title: \"Task Manager Pro\",\n  description: \"Elegant task management application\",\n};\n\nexport default function RootLayout({\n  children,\n}: Readonly<{\n  children: React.ReactNode;\n}>) {\n  return (\n    <html lang=\"en\" className=\"dark\">\n      <body className={`${GeistSans.variable} ${GeistMono.variable} geist-sans`}>\n        {children}\n      </body>\n    </html>\n  );\n}"],"names":[],"mappings":";;;;;;;;;;;;;AAIO,MAAM,WAAqB;IAChC,OAAO;IACP,aAAa;AACf;AAEe,SAAS,WAAW,EACjC,QAAQ,EAGR;IACA,qBACE,8OAAC;QAAK,MAAK;QAAK,WAAU;kBACxB,cAAA,8OAAC;YAAK,WAAW,GAAG,UAAU,QAAQ,CAAC,CAAC,EAAE,UAAU,QAAQ,CAAC,WAAW,CAAC;sBACtE;;;;;;;;;;;AAIT","debugId":null}},
+    {"offset": {"line": 47, "column": 0}, "map": {"version":3,"sources":["file:///D:/G-project/task-manager/node_modules/next/src/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.ts"],"sourcesContent":["module.exports = require('../../module.compiled').vendored[\n  'react-rsc'\n].ReactJsxDevRuntime\n"],"names":["module","exports","require","vendored","ReactJsxDevRuntime"],"mappings":";AAAAA,OAAOC,OAAO,GAAGC,QAAQ,4HAAyBC,QAAQ,CACxD,YACD,CAACC,kBAAkB","ignoreList":[0],"debugId":null}}]
+}
