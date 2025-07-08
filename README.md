@@ -9,11 +9,13 @@
 
 ### Frontend Mastery
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" alt="React" title="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=nextdotjs&logoColor=white" alt="Next.js" title="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white" alt="TypeScript" title="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" title="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript" title="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-Expert-E34F26?style=plastic&logo=html5&logoColor=white" alt="HTML5 Expert" />
+  <img src="https://img.shields.io/badge/CSS3-Advanced-1572B6?style=plastic&logo=css3&logoColor=white" alt="CSS3 Advanced" />
+  <img src="https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript Expert" />
+  <img src="https://img.shields.io/badge/React-Pro-20232A?style=plastic&logo=react&logoColor=61DAFB" alt="React Pro" />
+  <img src="https://img.shields.io/badge/Next.js-Advanced-000000?style=plastic&logo=nextdotjs&logoColor=white" alt="Next.js Advanced" />
+  <img src="https://img.shields.io/badge/TypeScript-Intermediate-007ACC?style=plastic&logo=typescript&logoColor=white" alt="TypeScript Intermediate" />
+  <img src="https://img.shields.io/badge/Tailwind-Expert-38B2AC?style=plastic&logo=tailwind-css&logoColor=white" alt="Tailwind Expert" />
 </div>
 
 ### Backend & Tools
