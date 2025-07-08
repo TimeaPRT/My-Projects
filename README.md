@@ -50,7 +50,7 @@
 - Clean, modern interface with Tailwind CSS
 
  **2. POS System (Client Project) 🛒**
-👨‍💻 **Client*Israeli Retail Business**  
+👨‍💻 **Client:Israeli Retail Business**  
 
 🔧 **Technologies: React · JSX · CSS**
 
